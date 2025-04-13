@@ -128,4 +128,4 @@ Contributions are welcome! Please feel free to create a Pull Request or open an 
 ## License
 
 [MIT License](LICENSE)
-*(You should also create a LICENSE file containing the MIT license text)*
+
